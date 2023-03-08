@@ -17,5 +17,4 @@ def gcd(m,n):
     for f in fm:
         if f in fn:
             cf.append(f)
-    print(cf[-1])
-gcd(14,63)
+    return(cf[-1])
