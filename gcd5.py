@@ -8,4 +8,4 @@ def gcd(m,n):
     else:
         diff = m-n
     return(gcd(n,diff))
-print(gcd(64,56))
+
