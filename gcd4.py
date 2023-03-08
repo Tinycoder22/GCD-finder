@@ -8,4 +8,4 @@ def gcd(m,n):
             return(i)
         else:
             i = i - 1
-print(gcd(14,63))
+
