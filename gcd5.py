@@ -8,4 +8,3 @@ def gcd(m,n):
     else:
         diff = m-n
     return(gcd(n,diff))
-
